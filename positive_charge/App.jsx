@@ -5,7 +5,7 @@ import AddPOI from './src/components/addPOI/AddPOI.jsx'
 import Login from './src/components/auth/Login.jsx';
 import Signup from './src/components/auth/Signup.jsx';
 import Modal from './src/components/poiDetails/Modal.jsx';
-
+import SeePOI from './src/components/seePOI/seePOI.jsx'
 
 class App extends React.Component {
   constructor(props) {
